@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 ## Interests
 - Music and Musical instruments 🎶 🤘🏻 🎧 🎹
 - Movies 🎞️
+- Python 🐍
+- Bash 🐚 
+- Ansible 🤖
 - Linux 🐧
 - Computer Networking 🧑🏻‍💻
 
