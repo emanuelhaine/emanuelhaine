@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![](./images/linkedin.png)](https://www.linkedin.com/in/emanuelhaine/)
 
 ## Interests
-- 👯 I’m looking to collaborate on Linux/Unix projects
+- I’m looking to collaborate on Linux/Unix projects
 
 
 ## Certifications and Badges
