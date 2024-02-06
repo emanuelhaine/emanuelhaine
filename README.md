@@ -42,6 +42,6 @@ Here are some ideas to get you started:
     </td>
 </table>  
 -->
-[Credly](https://www.credly.com/users/emanuel-baptista-haine/badges) 
-[![](./images/lpi.png)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000447269/ehrntspkhy)
-[![](./images/redhat.png)](https://rhtapps.redhat.com/verify?certId=220-030-795)
+- [Credly Profile](https://www.credly.com/users/emanuel-baptista-haine/badges) 
+- [LPI Profile](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000447269/ehrntspkhy)
+- [Red Hat Profile](https://rhtapps.redhat.com/verify?certId=220-030-795)
