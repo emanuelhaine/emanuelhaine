@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 [![](./images/linkedin-r-adjusted.png)](https://www.linkedin.com/in/emanuelhaine/)
 
 ## Interests
-- Music and Musical instruments 🎶 🤘🏻 🎧 🎹
-- Movies 🎞️
+- C Language 👨🏻‍💻
 - Python 🐍
 - Bash 🐚 
 - Ansible 🤖
