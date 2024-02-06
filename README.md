@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 #### Badges
 [![](./images/credly.png)](https://www.credly.com/users/emanuel-baptista-haine/badges)
+[![](./images/lpi.png)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000447269/ehrntspkhy)
