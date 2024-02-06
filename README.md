@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 👯 I’m looking to collaborate on Linux/Unix projects
+
+
 #### Certifications and Badges
 <!--
 <table border="0" style="border: none;">
