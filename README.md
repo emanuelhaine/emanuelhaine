@@ -1,4 +1,4 @@
-# 🐧 Hi there 👋 🇧🇷
+# 🐧 Hi there 👋 🇧🇷, Welcome to my GitHub profile!
 
 <!--
 **emanuelhaine/emanuelhaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## LinkedIn Profile
 
+## Interests
 - 👯 I’m looking to collaborate on Linux/Unix projects
 
 
-#### Certifications and Badges
+### Certifications and Badges
 <!--
 <table border="0" style="border: none;">
   <tr>
