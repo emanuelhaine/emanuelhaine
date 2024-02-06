@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - Linux 🐧
 - Computer Networking 🧑🏻‍💻
 
-- Linux
 ## Colaboration 
 - I’m looking to collaborate on Linux/Unix projects
 
