@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 #### Badges
-[![](Credly](https://www.credly.com/users/emanuel-baptista-haine/badges) 
-[![](LPI - Linux Professional Institute)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000447269/ehrntspkhy)
+[![](./images/credly.png](https://www.credly.com/users/emanuel-baptista-haine/badges) 
+[![](./images/lpi.png)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000447269/ehrntspkhy)
