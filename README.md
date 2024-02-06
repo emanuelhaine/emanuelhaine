@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### Badges
-
+<!--
 <table border="0" style="border: none;">
   <tr>
     <td>
@@ -30,6 +30,8 @@ Here are some ideas to get you started:
       </a>
     </td>
 </table>  
+-->
 
 [![](./images/credly.png)](https://www.credly.com/users/emanuel-baptista-haine/badges) 
 [![](./images/lpi.png)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000447269/ehrntspkhy)
+[![](./images/redhat.png)](https://rhtapps.redhat.com/verify?certId=220-030-795)
