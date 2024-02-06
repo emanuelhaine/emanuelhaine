@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Python 🐍
 - Bash 🐚 
 - Ansible 🤖
-- Linux 🐧
+- Linux/Unix 🐧
 - Computer Networking 🧑🏻‍💻
 
 ## Colaboration 
