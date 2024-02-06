@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Badges
+[![](./images/matt-linked-in-profile-card-comic-small2.png)](https://www.credly.com/users/emanuel-baptista-haine/badges)
