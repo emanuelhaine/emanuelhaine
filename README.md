@@ -21,12 +21,12 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <a href="https://www.credly.com/users/emanuel-baptista-haine/badges">
-        <img width="100" height="100" src="./images/credly.png" alt="Credly">
+        <img width="300" height="150" src="./images/credly.png" alt="Credly">
       </a>
     </td>
     <td>
       <a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000447269/ehrntspkhy">
-        <img width="100" height="100" src="./images/lpi.png" alt="LPI - Linux Professional Institute">
+        <img width="300" height="150" src="./images/lpi.png" alt="LPI - Linux Professional Institute">
       </a>
     </td>
 </table>  
