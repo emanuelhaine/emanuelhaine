@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## LinkedIn Profile
-[![](./images/linkedin.jpg)](https://www.linkedin.com/in/emanuelhaine/)
+[![](./images/linkedin-r.png)](https://www.linkedin.com/in/emanuelhaine/)
 
 ## Interests
 - Music and Musical instruments 🎶 🤘🏻 🎧 🎹
