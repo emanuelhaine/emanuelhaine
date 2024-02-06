@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 [![](./images/linkedin.png)](https://www.linkedin.com/in/emanuelhaine/)
 
 ## Interests
-- Musical instruments 🎹
-- Music 🎶 🤘🏻 🎧
+- Music and Musical instruments 🎶 🤘🏻 🎧 🎹
 - Movies 🎞️
 - Linux 🐧
 - Computer Networking 🧑🏻‍💻
